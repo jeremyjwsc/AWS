@@ -12,5 +12,4 @@ Readings:
 * [Amazon Web Services For Dummies](https://drive.google.com/file/d/1TFvG2N-tL27RkOdvno-C_M4pVKRg6fsr/view?usp=sharing)
 
 * [Programming Amazon EC2](https://drive.google.com/file/d/1CbzlKsq17Eag_mfamQlGsve_JE7TVkCP/view?usp=sharing) 
-   - Run Applications on Amazon's Infrastructure with EC2, S3, SQS, SimpleDB, and Other Services
-
+   - Run Applications on Amazon's Infrastructure with EC2, S3, SQS, SimpleDB and Other Services
