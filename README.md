@@ -5,6 +5,6 @@ Amazon Web Services aimed at developing the knowledge, methods and technical ski
 
 * Amazon Simple Storage Service (S3) 
   
-* Other services are not exposed directly to end users, but instead offer functionality through APIs for developers
+* Other services not exposed directly to end users, but instead offer functionality through APIs for developers
 
 
